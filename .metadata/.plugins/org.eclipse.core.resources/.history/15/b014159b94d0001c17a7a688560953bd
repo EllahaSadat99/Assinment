@@ -1,0 +1,24 @@
+package education;
+
+public class Subject {
+	
+	static byte myByte; 
+	static int myInt;
+	static long myLong;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		System.out.println("Default Value of myByte is:"+myByte);
+		System.out.println("Defualte Value of myInte is:"+ myInt);
+		System.out.println("Default Value of myLong is:" + myLong);
+		
+		
+	
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package education;
+
+public class Subject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		static byte myByte;
+		System.out.println("Default Value of myByte is:" + myByte);
+
+	}
+
+}

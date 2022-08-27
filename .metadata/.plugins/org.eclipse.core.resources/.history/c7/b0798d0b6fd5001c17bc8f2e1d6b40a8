@@ -1,0 +1,17 @@
+
+public class DispalyAZWhileLoop {
+
+	public static void main(String[] args) {
+		// Display the Alphabets letter A-Z
+		
+		char c = 'A'; 
+		while (c <='z') {
+			// if we do not write = it does not print z 
+			System.out.println(c);
+			// increment
+			c++; 
+		}
+
+	}
+
+}

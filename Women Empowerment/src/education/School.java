@@ -1,0 +1,47 @@
+package education;
+
+public class School {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       //
+	  /**/
+		
+		byte myByte = 127; 
+		System.out.println(myByte);
+		
+		short myShort = 2334; 
+		System.out.println(myShort);
+		float myFloat = 1.5f; 
+		System.out.println(myFloat); 
+		char Character ='A';
+
+        float myBook = 1.4f;
+        System.out.println(myBook); 
+        char character = 'B';
+        System.out.println(character); 
+        boolean ismyName = true;
+        System.out.println(ismyName); 
+        
+        String name = "Ellaha"; 
+        System.out.println(name);		
+		
+        char myChar = 'f';
+        System.out.println(character);
+        long myLong = 7688393098765
+        System.out.println(myLong);
+         myPen= 1,5f;
+        System.out.println(myPen);
+        String pen =";
+        System.out.println(pen);
+        
+        char myChar = 'a';
+        System.out.println(Character);
+        
+		
+		
+		
+		
+	}
+
+}

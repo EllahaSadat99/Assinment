@@ -1,0 +1,28 @@
+package education;
+
+public class School {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       //
+	  /**/
+		
+		byte myByte = 127; 
+		System.out.println(myByte);
+		
+		short myShort = 2334; 
+		System.out.println(myShort);
+		float myFloat = 1.5f; 
+		System.out.println(myFloat); 
+		char Character ='A';
+
+        float myFloat = 3.4f;
+        System.out.println(myFlot); 
+		
+		
+		
+		
+		
+	}
+
+}

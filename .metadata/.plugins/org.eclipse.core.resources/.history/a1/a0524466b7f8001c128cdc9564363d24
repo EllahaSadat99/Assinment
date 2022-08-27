@@ -1,0 +1,13 @@
+package scanner;
+import java.util.Scanner;
+
+
+public class ScannerExamples {
+
+	public static void main(String[] args) {
+		Scanner thescanner = new Scanner(system.nextLine());
+		
+
+	}
+
+}

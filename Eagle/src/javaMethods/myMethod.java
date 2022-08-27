@@ -1,0 +1,19 @@
+package javaMethods;
+
+public class myMethod {
+
+	static void myNewMethod(String firstName) {
+		System.out.println(firstName +    "  Khan");
+		
+	}
+	public static void main(String[] args) {
+		//  calling myNewMethod
+		
+		myNewMethod(" AHmad");
+		
+		
+		
+
+	}
+
+}
